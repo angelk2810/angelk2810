@@ -1,9 +1,6 @@
 #  About Me:
-🎓 Engineering student specializing in Artificial Intelligence & Machine learning
-💻 Strong foundation in C, JAVA, Python 
-🧠 Focused on building intelligent, scalable solutions  
-🌱 Currently mastering Full-Stack Development & applied AI systems  
-⚡ Fun fact: I trust structured logic more than shortcuts 😄
+🎓 Engineering student specializing in Artificial Intelligence & Machine learning<br>💻 Strong foundation in C, JAVA, Python<br>🧠 Focused on building intelligent, scalable solutions  <br>🌱 Currently mastering Full-Stack Development & applied AI systems  <br>⚡ Fun fact: I trust structured logic more than shortcuts 😄
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-k-146b83249) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Angelk_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelkp1102@gmail.com) 
