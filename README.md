@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Welcome to My GitHub<br><br>I'm Angel, an ambitious Engineering student deeply interested in Artificial Intelligence, intelligent systems, and scalable software development. I enjoy transforming complex ideas into structured, practical solutions through clean code and strong fundamentals.<br><br>Driven by curiosity and innovation, I continuously work on sharpening my problem-solving skills and building technology that creates real-world impact.
 
 
