@@ -1,6 +1,9 @@
 #  About Me:
-👋 Welcome to My GitHub<br><br>I'm Angel, an ambitious Engineering student deeply interested in Artificial Intelligence, intelligent systems, and scalable software development. I enjoy transforming complex ideas into structured, practical solutions through clean code and strong fundamentals.<br><br>Driven by curiosity and innovation, I continuously work on sharpening my problem-solving skills and building technology that creates real-world impact.
-
+🎓 Engineering student specializing in Artificial Intelligence & system-level thinking  
+💻 Strong foundation in C, JAVA, Python 
+🧠 Focused on building intelligent, scalable solutions  
+🌱 Currently mastering Full-Stack Development & applied AI systems  
+⚡ Fun fact: I trust structured logic more than shortcuts 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-k-146b83249) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Angelk_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelkp1102@gmail.com) 
