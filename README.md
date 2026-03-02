@@ -1,5 +1,5 @@
 #  About Me:
-🎓 Engineering student specializing in Artificial Intelligence & system-level thinking  
+🎓 Engineering student specializing in Artificial Intelligence & Machine learning
 💻 Strong foundation in C, JAVA, Python 
 🧠 Focused on building intelligent, scalable solutions  
 🌱 Currently mastering Full-Stack Development & applied AI systems  
