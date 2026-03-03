@@ -55,6 +55,12 @@
 
 ---
 
+## 🐍 GitHub Snake
+
+![Snake animation](https://github.com/angelk2810/angelk2810/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
