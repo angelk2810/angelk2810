@@ -1,9 +1,9 @@
-#  About Me:
+##  About Me:
 🎓 Engineering student specializing in Artificial Intelligence & Machine learning<br>💻 Strong foundation in C, JAVA, Python<br>🧠 Focused on building intelligent, scalable solutions  <br>🌱 Currently mastering Full-Stack Development & applied AI systems  <br>⚡ Fun fact: Still learning, still building, still not accepting “it works somehow.”
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ### 🧩 Problem Solving:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=angelk2810&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -54,12 +54,24 @@
 
 ---
 
-# ✍️ Random Dev Quote
+<div align="center">
+
+## 🧠 LeetCode
+
+<a href="https://leetcode.com/angel_k28/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/angel_k28?theme=dark&font=Baloo&ext=heatmap&border=0&radius=12" />
+</a>
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-k-146b83249) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Angelk_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelkp1102@gmail.com) 
 
 
