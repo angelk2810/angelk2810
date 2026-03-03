@@ -39,18 +39,31 @@
 
 ---
 
-## 📊 GitHub Stats:
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=angelk2810&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=angelk2810&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=angelk2810&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=angelk2810&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
+<img src="https://nirzak-streak-stats.vercel.app/?user=angelk2810&theme=tokyonight&hide_border=true" />
 
-### 🐍 GitHub Snake
+<br>
 
-![Snake animation](https://github.com/angelk2810/angelk2810/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelk2810&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 GitHub Snake
+
+<img src="https://raw.githubusercontent.com/angelk2810/angelk2810/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
@@ -66,8 +79,12 @@
 
 ---
 
+<div align="center">
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
