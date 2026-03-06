@@ -61,7 +61,7 @@
 
 <div align="center">
 
-# GitHub Snake
+### GitHub Snake
 
 <img src="https://raw.githubusercontent.com/angelk2810/angelk2810/output/github-contribution-grid-snake-dark.svg" />
 
