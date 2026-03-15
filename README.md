@@ -1,5 +1,5 @@
 ##  About Me:
-🎓 Engineering student specializing in Artificial Intelligence & Machine learning<br>💻 Strong foundation in C, JAVA, Python<br>🧠 Focused on building intelligent, scalable solutions  <br>🌱 Currently mastering Full-Stack Development & applied AI systems  <br>⚡ Fun fact: Still learning, still building, still not accepting “it works somehow!!”
+🎓 Engineering student specializing in Artificial Intelligence & Machine learning<br>💻 Strong foundation in C, JAVA, Python<br>🧠 Focused on building intelligent, scalable solutions  <br>🌱 Currently mastering Full-Stack Development & applied AI systems  <br>⚡ Fun fact: Still learning, still building, still not accepting “it works somehow!”
 
 ---
 
