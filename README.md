@@ -1,4 +1,4 @@
-##  About Me
+##  👨‍💻About Me
 
 🎓 AI & Machine Learning engineering student focused on **software development and intelligent systems**  
 💻 Strong foundation in **C, Java & Python** with an interest in problem solving  
@@ -7,7 +7,8 @@
 ⚡ Still learning, still building, and still not accepting *“It works somehow!”*
 
 
-##  My Skills
+
+##  💻Tech Stack
 
 ###  Programming Languages
 
@@ -38,11 +39,13 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-##  GitHub Stats:
+
+##  📊GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=angelk2810&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=angelk2810&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=angelk2810&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ## 🐍 GitHub Snake
@@ -54,18 +57,21 @@
 </picture>
 
 
-## LeetCode
+
+## 🧩LeetCode
   
 <a href="https://leetcode.com/angel_k28/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/angel_k28?theme=dark&font=Baloo&ext=heatmap&border=0&radius=12" />
 </a>
 
 
-## Random Dev Quote
+
+## ✍️Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-## Socials
+
+## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-k-146b83249)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelkp1102@gmail.com) 
