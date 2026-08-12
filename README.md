@@ -1,4 +1,4 @@
-#  About Me
+##  About Me
 
 🎓 AI & Machine Learning engineering student focused on **software development and intelligent systems**  
 💻 Strong foundation in **C, Java & Python** with an interest in problem solving  
@@ -6,7 +6,8 @@
 🌐 Building skills in **Full-Stack Development and scalable web applications**  
 ⚡ Still learning, still building, and still not accepting *“It works somehow!”*
 
-# Tech Stack:
+
+##  Tech Stack:
 
 ###  Programming Languages
 
@@ -36,41 +37,30 @@
 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-<div align="center">
 
-#  GitHub Stats:
+##  GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=angelk2810&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=angelk2810&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=angelk2810&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
 
----
+## 🐍 GitHub Snake
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angelk2810/angelk2810/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/angelk2810/angelk2810/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/angelk2810/angelk2810/output/github-snake.svg">
+</picture>
 
-### GitHub Snake
-
-<img src="https://raw.githubusercontent.com/angelk2810/angelk2810/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<div align="center">
 
 ## LeetCode
-
+  
 <a href="https://leetcode.com/angel_k28/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/angel_k28?theme=dark&font=Baloo&ext=heatmap&border=0&radius=12" />
 </a>
 
-</div>
-
----
 
 <div align="center">
 
@@ -79,9 +69,6 @@
 
 </div>
 
----
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-k-146b83249) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Angelk_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelkp1102@gmail.com) 
-
-
