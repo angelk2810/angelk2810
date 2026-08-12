@@ -7,7 +7,7 @@
 ⚡ Still learning, still building, and still not accepting *“It works somehow!”*
 
 
-##  Tech Stack:
+##  My Skills
 
 ###  Programming Languages
 
@@ -66,5 +66,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-k-146b83249) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_Angelk_18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelkp1102@gmail.com) 
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angel-k-146b83249)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelkp1102@gmail.com) 
