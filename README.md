@@ -38,7 +38,6 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
 ##  GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=angelk2810&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -62,12 +61,9 @@
 </a>
 
 
-<div align="center">
-
 ## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 ## Socials:
