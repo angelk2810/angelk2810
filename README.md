@@ -4,7 +4,7 @@
 💻 Strong foundation in **C, Java & Python** with an interest in problem solving  
 🤖 Exploring **Machine Learning, Applied AI & LLM-based applications**  
 🌐 Building skills in **Full-Stack Development and scalable web applications**  
-⚡ Still learning, still building, and still not accepting *“It works somehow!”*
+⚡ Still learning, still building and still not accepting *“It works somehow!”*
 
 
 
